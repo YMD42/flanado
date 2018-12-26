@@ -90,9 +90,5 @@ ToDo
 Contributing
 ------------
 
-TBD
+Feel free to fork and send PR!
 
-Example
--------
-
-TBD

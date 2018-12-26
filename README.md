@@ -8,6 +8,15 @@ Overview
 
 This package provides flask-like routes API for tornado web framework.
 
+
+Why don't you use [responder](https://python-responder.org/en/latest/)?
+--------------------
+
+Yeah, maybe.
+
+Purpose of this project is mainly for on my technical investigation and conding fun.
+
+
 Installation / Usage
 --------------------
 
@@ -64,7 +73,7 @@ if __name__ == '__main__':
     app.run()
 ```
 
-( from (example/minimum.py)[example/minimum.py])
+( from [example/minimum.py](example/minimum.py) )
 
 You can try it with:
 ```
